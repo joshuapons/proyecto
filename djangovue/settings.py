@@ -60,7 +60,7 @@ INSTALLED_APPS = [
     'comment',
     'store',
     'cart',
-    'taggit',
+    #'taggit',
     'django_extensions',
     'social_django',
 ]
@@ -111,9 +111,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'proyectofoc',
-        'USER': 'root',
+        'USER': 'josua',
         'PASSWORD': '',
-        'HOST': 'localhost',
+        'HOST': 'josua.mysql.pythonanywhere-services.com',
         'PORT': '3306',
     }
 }
