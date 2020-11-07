@@ -60,7 +60,7 @@ INSTALLED_APPS = [
     'comment',
     'store',
     'cart',
-    #'taggit',
+    'taggit',
     'django_extensions',
     'social_django',
 ]
