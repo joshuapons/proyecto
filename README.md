@@ -1,2 +1,1 @@
-# proyecto
-Proyecto Foc
+proyecto foc
