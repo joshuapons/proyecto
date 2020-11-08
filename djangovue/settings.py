@@ -111,9 +111,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'proyectofoc',
-        'USER': 'josua',
+        'USER': 'root',
         'PASSWORD': '',
-        'HOST': 'josua.mysql.pythonanywhere-services.com',
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }
